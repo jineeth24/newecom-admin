@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055216832555",
+    "project_id": "newecom-4bb29",
+    "storage_bucket": "newecom-4bb29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055216832555:android:ffa1cf07b6a67fe7661a6e",
+        "android_client_info": {
+          "package_name": "com.example.newecomadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqY_y7kDnNbRi5EWNAbg7AusxuNzYC88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
